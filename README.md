@@ -22,5 +22,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furqan01510&show_icons=true&locale=en&layout=compact" alt="furqan01510" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furqan01510&show_icons=true&locale=en" alt="furqan01510" /></p>

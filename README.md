@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Furqan01510
+- 👋 Hi, I’m Furqan my username is @Furqan01510
 - 👀 I’m interested in programming, testing, & designing
-- 🌱 I’m currently learning Full Stack MERN Stack.
+- 🌱 I’m Full Stack Developer (MERN Stack).
 - 💞️ I’m looking to collaborate on any project. 
 - 📫 How to reach me on any social media. 
 
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Front-End](https://github.com/Furqan01510/Front-End.git)
 
-- 🌱 I’m currently learning **DSA & Full Stack Development**
+- 🌱 I’m intrested in doing projects related to **DSA & Full Stack Development**
 
 - 💬 Ask me about **DSA, Full Stack Development, any questions related to programming languages**
 

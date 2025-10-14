@@ -15,7 +15,6 @@ I'm a passionate full-stack developer with expertise in building scalable mobile
 
 ---
 
-
 # 💻 Tech Stack
 
 ## 🖥️ Frontend Development
@@ -61,6 +60,7 @@ I'm a passionate full-stack developer with expertise in building scalable mobile
 ## 🧰 Additional & Ecosystem Tools
 
 <div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Discord.svg" alt="Discord" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Notion-Dark.svg" alt="Notion" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/BitBucket-Dark.svg" alt="Bitbucket" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/DevTo-Dark.svg" alt="Dev.to" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/StackOverflow-Dark.svg" alt="Stack Overflow" width="50" height="50"> </div>
+
 ---
 
 ## 📦 Featured Projects

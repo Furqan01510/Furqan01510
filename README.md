@@ -15,95 +15,51 @@ I'm a passionate full-stack developer with expertise in building scalable mobile
 
 ---
 
-## 💻 Tech Stack
 
-### 📱 Mobile Development
+# 💻 Tech Stack
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Flutter-Dark.svg" alt="Flutter" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Dart-Dark.svg" alt="Dart" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Swift.svg" alt="Swift" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Java-Dark.svg" alt="Java" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/XML-Light.svg" alt="XML" width="50" height="50">
-</div>
+## 🖥️ Frontend Development
 
-**Platforms**: iOS App Store, Google Play Store, Google Play Services, Apple Developer Ecosystem
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/React-Dark.svg" alt="React" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" alt="Vue.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Angular-Dark.svg" alt="Angular" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Svelte.svg" alt="Svelte" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/SolidJS-Dark.svg" alt="SolidJS" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NuxtJS-Dark.svg" alt="Nuxt.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Astro.svg" alt="Astro" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/MaterialUI-Dark.svg" alt="Material UI" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/StyledComponents.svg" alt="Styled Components" width="50" height="50"> </div>
+📱 Mobile Development
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Flutter-Dark.svg" alt="Flutter" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Dart-Dark.svg" alt="Dart" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Swift.svg" alt="Swift" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Kotlin-Dark.svg" alt="Kotlin" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"> </div>
 
-### 🌐 Backend & API Development
+# Platforms: iOS • Android • Play Store • App Store
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" alt="NestJS" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50">
-</div>
+## ⚙️ Backend Development
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" alt="NestJS" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/FastAPI.svg" alt="FastAPI" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Django.svg" alt="Django" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Flask-Light.svg" alt="Flask" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Laravel-Dark.svg" alt="Laravel" width="50" height="50"> </div>
 
-### ⚙️ Systems & Performance
+## 🧠 Programming Languages
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Rust.svg" alt="Rust" width="50" height="50">
-</div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/C.svg" alt="C" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/CPP.svg" alt="C++" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Rust.svg" alt="Rust" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GoLang.svg" alt="Go" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Scala-Dark.svg" alt="Scala" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/R-Dark.svg" alt="R" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Elixir-Dark.svg" alt="Elixir" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Clojure-Dark.svg" alt="Clojure" width="50" height="50"> </div>
 
-### 🗄️ Databases & Storage
+## 🗄️ Databases & Storage
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/SQLite.svg" alt="SQLite" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Firebase-Dark.svg" alt="Firebase Realtime" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50">
-</div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/SQLite.svg" alt="SQLite" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Redis-Dark.svg" alt="Redis" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/DynamoDB-Dark.svg" alt="DynamoDB" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Cassandra-Dark.svg" alt="Cassandra" width="50" height="50"> </div>
 
-### ☁️ Cloud & Infrastructure
+## ☁️ Cloud, Infra & DevOps
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GCP-Dark.svg" alt="Google Cloud" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Terraform-Dark.svg" alt="Terraform" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Kubernetes.svg" alt="Kubernetes" width="50" height="50">
-</div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GCP-Dark.svg" alt="GCP" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Kubernetes.svg" alt="Kubernetes" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Terraform-Dark.svg" alt="Terraform" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Ansible.svg" alt="Ansible" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Nginx.svg" alt="Nginx" width="50" height="50"> </div>
 
-### 🚀 DevOps & CI/CD
+## 🔒 Security, Testing & CI/CD
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Ansible.svg" alt="Ansible" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GitLab-Dark.svg" alt="GitLab CI" width="50" height="50">
-</div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/SonarQube-Dark.svg" alt="SonarQube" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Dependabot-Dark.svg" alt="Dependabot" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/GitlabCI-Dark.svg" alt="GitLab CI" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Cypress-Dark.svg" alt="Cypress" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Jest.svg" alt="Jest" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Vitest-Dark.svg" alt="Vitest" width="50" height="50"> </div>
 
-### 🔒 Security & Testing
+## 📊 Monitoring & Observability
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/SonarQube-Dark.svg" alt="SonarQube" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Dependabot-Dark.svg" alt="Dependabot" width="50" height="50">
-</div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Prometheus.svg" alt="Prometheus" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Grafana-Dark.svg" alt="Grafana" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/ElasticSearch-Dark.svg" alt="Elasticsearch" width="50" height="50"> </div>
 
-**Expertise**: SAST & DAST Security Scanning • Dependency Vulnerability Management • Unit Testing, Integration Testing, E2E Testing • Automated Security Testing Pipelines • Secrets Management & Compliance Automation
+## 🧩 Tools & IDEs
 
-### 📊 Monitoring & Observability
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/XCode.svg" alt="Xcode" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/PhpStorm-Dark.svg" alt="PhpStorm" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/CLion-Dark.svg" alt="CLion" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="50" height="50"> </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Prometheus.svg" alt="Prometheus" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Grafana-Dark.svg" alt="Grafana" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/ElasticSearch-Dark.svg" alt="ELK Stack" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/CloudWatch-Dark.svg" alt="CloudWatch" width="50" height="50">
-</div>
+## 🎨 Design, Visualization & Creative
 
-### 🛠️ Developer Tools
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Figma-Dark.svg" alt="Figma" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Illustrator.svg" alt="Illustrator" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/AfterEffects.svg" alt="After Effects" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Blender-Dark.svg" alt="Blender" width="50" height="50"> </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Postman.svg" alt="Postman" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/XCode.svg" alt="Xcode" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="50" height="50">
-</div>
+## 🧰 Additional & Ecosystem Tools
 
+<div align="left"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Discord.svg" alt="Discord" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Notion-Dark.svg" alt="Notion" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/BitBucket-Dark.svg" alt="Bitbucket" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/DevTo-Dark.svg" alt="Dev.to" width="50" height="50"> <img src="https://raw.githubusercontent.com/Furqan01510/skill-icons/refs/heads/main/icons/StackOverflow-Dark.svg" alt="Stack Overflow" width="50" height="50"> </div>
 ---
 
 ## 📦 Featured Projects

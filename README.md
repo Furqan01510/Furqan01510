@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 👋 Hi, I'm Furqan Mohammed
 
 **Full-Stack Developer | Mobile App Specialist | Cloud Infrastructure Engineer**
@@ -7,6 +9,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:furqan@cloudpremises.org)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20IN-1F6B75?style=for-the-badge&logo=googlemaps)](https://maps.google.com/?q=Hyderabad)
 
+  
+</div>
+  
 ---
 
 ## 🚀 About Me

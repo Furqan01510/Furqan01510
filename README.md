@@ -179,7 +179,7 @@ Continuously expanding expertise in:
 ## 📞 Get In Touch
 
 - **GitHub**: [@furqan01510](https://github.com/furqan01510)
-- **Email**: [furqan@cloudpremises.org](mailto:furqan@cloudpremises.org)
+- **Email**: [furqan.m@cloudpremises.org](mailto:furqan.m@cloudpremises.org)
 - **Cloud Premises**: [cloudpremises.org](https://cloudpremises.org)
 
 ---
